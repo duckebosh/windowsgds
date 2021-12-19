@@ -20,6 +20,5 @@ Win 10 Version 21H2  | [64 bit](https://tb.rg-adguard.net/dl.php?go=35782c91 "64
 
 ### How to change your mouse cursor
 
-![cursor](images/windowscursor.png)
-Are you tired of that boring default cursor in Windows and think it's time to change it? Here is how!
-[button url="http://www.google.com"]
+![cursor](images/windowscursor.png) | Are you tired of that boring default cursor in Windows and think it's time to change it? Here is how!
+
