@@ -20,7 +20,7 @@ Win 10 Version 21H2  | [64 bit](https://tb.rg-adguard.net/dl.php?go=35782c91 "64
 
 ### How to change your mouse cursor
 
-<img src="images/windowscursor.png" width="100" height="100" >
+<img src="images/windowscursor.png" width="400" height="400" >
 
 Are you tired of that boring default cursor in Windows and think it's time to change it? Here is how!
 
