@@ -2,7 +2,7 @@
 
 
 
-# Windows Downloads
+## Windows Downloads
 I'm posting new direct (microsoft.com) links all the time for windows 10 downloads. (These are completely legal)
 ### English only ###
 
