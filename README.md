@@ -41,3 +41,26 @@ Are you tired of that boring default cursor in Windows and think it's time to ch
 3. From this new page, we can change the colour, size and feedback of your cursor optimising it for your use.
 
 <img src="images/cursoroptions.png" >
+
+<hr>
+
+#### Windows 11
+1. Just like in windows 10, in the start menu, begin typing 'Mouse settings'
+
+<br>
+
+<img src="images/searchmousesettings.png" >
+
+<br>
+
+2. Select 'Mouse pointer' from the small 'Related settings' section at the bottom of this page.
+
+![image](https://user-images.githubusercontent.com/67283670/146688829-ddfda7de-f5ce-408d-a08b-f991ab3ff880.png)
+
+<br>
+
+3. Now, change your desired settings and you will be good to go!
+
+![image](https://user-images.githubusercontent.com/67283670/146688856-a3e30972-e5b5-478c-8ca5-0b77954b8594.png)
+
+<hr>
