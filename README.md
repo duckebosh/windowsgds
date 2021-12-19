@@ -19,3 +19,5 @@ Win 10 Version 21H2  | [64 bit](https://tb.rg-adguard.net/dl.php?go=35782c91 "64
 ## Basic Guides
 
 ### How to change your mouse cursor
+
+![alt text](images/windowscursor.png)
