@@ -26,4 +26,5 @@ Are you tired of that boring default cursor in Windows and think it's time to ch
 #### Windows 10
 First of all, in the start menu, begin typing 'Mouse settings'
 <img src="images/yjCFGP.png" >
-
+Select the first option before scrolling down and selecting 'Adjust mouse & cursor size' from Related settings.
+<img src="images/XLZry3.png >
