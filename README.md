@@ -25,6 +25,13 @@ Win 10 Version 21H2  | [64 bit](https://tb.rg-adguard.net/dl.php?go=35782c91 "64
 Are you tired of that boring default cursor in Windows and think it's time to change it? Here is how! 
 #### Windows 10
 First of all, in the start menu, begin typing 'Mouse settings'
+
+<br>
+
 <img src="images/yjCFGP.png" >
+
+<br>
+
 Select the first option before scrolling down and selecting 'Adjust mouse & cursor size' from Related settings.
+
 <img src="images/XLZry3.png >
