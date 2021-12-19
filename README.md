@@ -1,6 +1,6 @@
 # Windows Guides
 
-
+[How to change and optimise your mouse cursor](#how-to-change-your-mouse-cursor)
 
 ## Windows Downloads
 I'm posting new direct (microsoft.com) links all the time for windows 10 downloads. (These are completely legal)
@@ -15,3 +15,7 @@ Win 10 Version 2004 - 20H1  | [64 bit](https://tb.rg-adguard.net/dl.php?go=272d3
 Win 10 Version 2009 - 20H2  | [64 bit](https://tb.rg-adguard.net/dl.php?go=73ffea7e "64-bit")      [32 bit](https://tb.rg-adguard.net/dl.php?go=b2e49665 "32-bit")
 Win 10 Version 21H1  | [64 bit](https://tb.rg-adguard.net/dl.php?go=8c764d2e "64-bit")      [32 bit](https://tb.rg-adguard.net/dl.php?go=d61c63b5 "32-bit")
 Win 10 Version 21H2  | [64 bit](https://tb.rg-adguard.net/dl.php?go=35782c91 "64-bit")      [32 bit](https://tb.rg-adguard.net/dl.php?go=15949c3e "32-bit")
+
+## Basic Guides
+
+### How to change your mouse cursor
