@@ -22,5 +22,8 @@ Win 10 Version 21H2  | [64 bit](https://tb.rg-adguard.net/dl.php?go=35782c91 "64
 
 <img src="images/windowscursor.png" width="410" height="400" >
 
-Are you tired of that boring default cursor in Windows and think it's time to change it? Here is how!
+Are you tired of that boring default cursor in Windows and think it's time to change it? Here is how! 
+#### Windows 10
+First of all, in the start menu, begin typing 'Mouse settings'
+<img src="images/yjCFGP.png" >
 
