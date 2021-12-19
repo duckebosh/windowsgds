@@ -34,4 +34,4 @@ First of all, in the start menu, begin typing 'Mouse settings'
 
 Select the first option before scrolling down and selecting 'Adjust mouse & cursor size' from Related settings.
 
-<img src="images/XLZry3.png >
+<img src="images/XLZry3.png" >
