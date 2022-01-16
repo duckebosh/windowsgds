@@ -1,0 +1,73 @@
+**FORMATTING SHEET BY PAUL BLACK**
+
+<><><> MASTERS <><><> 
+
+Hello [MENTION]xxx[/MENTION],
+:thumbsup:
+:roflmao:
+:roflmao2:
+
+<><><> Links <><><> 
+
+> [URL=Link Here][U]Title Here[/U][/URL]
+> [URL=Link][U]Title[/U][/URL]
+
+<><><> Titles <><><> 
+
+Continuous Horizontal Line > [HR][/HR]
+Arrow                      > :arrow:
+Title                      > [SECTION]xxx[/SECTION]
+Sub_Title                  > [DOS]xxx:[/DOS]
+Information                > [I2]xxx[/I2]
+Topic Title                > [KEY][SIZE=3][B]Name Here[/B][/SIZE][/KEY]
+
+<><><> BOX Around <><><> 
+
+Black > [KEY][SIZE=3][B][FONT="Consolas"]xxx[/FONT][/B][/SIZE][/KEY]
+Blue  > [KEY][SIZE=3][COLOR="BLUE"][B][FONT="Consolas"]xxx[/FONT][/COLOR][/B][/SIZE][/KEY]
+Red   > [KEY][SIZE=3][COLOR="#B22222"][B][FONT="Consolas"]xxx[/FONT][/COLOR][/B][/SIZE][/KEY]
+
+<><><> HIGHLIGHTED Backgrounds <><><>
+
+Black > [C][B][SIZE=3]xxx[/SIZE][/B][/C]
+Blue  > [C][B][COLOR=BLUE][SIZE=3]xxx[/SIZE][/COLOR][/B][/C]
+Red   > [C][B][COLOR=#B22222][SIZE=3]NOT[/SIZE][/COLOR][/B][/C]
+
+<><><> CODE <><><>
+
+[CODE][FONT="Consolas"][SIZE=2]
+Code Here
+[/SIZE][/FONT][/CODE]
+
+<><><> LIST <><><>
+
+[LIST]
+[*] Text Here
+[/LIST]
+
+<><><> QUOTE <><><>
+
+[QUOTE]
+Text Here
+[/QUOTE]
+
+<><><> QUOTE & LIST <><><>
+
+[QUOTE][LIST]
+[*] Text Here
+[*][/LIST][/QUOTE]
+
+<><><> ERRORS & NOTE <><><>
+
+IMPORTANT Red  > [KEY][SIZE=4][COLOR="#B22222"][B][FONT="Consolas"][U]IMPORTANT[/U]:-[/FONT][/COLOR][/B][/SIZE][/KEY]
+ERROR     Red  > [KEY][SIZE=4][COLOR="#B22222"][B][FONT="Consolas"][U]ERROR[/U]:-[/FONT][/COLOR][/B][/SIZE][/KEY]
+WARNING   Red  > [KEY][SIZE=4][COLOR="#B22222"][B][FONT="Consolas"][U]WARNING[/U]:-[/FONT][/COLOR][/B][/SIZE][/KEY]
+NOTE      Blue > [KEY][SIZE=4][COLOR="BLUE"][B][FONT="Consolas"][U]NOTE[/U]:-[/FONT][/COLOR][/B][/SIZE][/KEY]
+
+<><><> Other <><><> 
+
+Hello [MENTION]xxx[/MENTION],
+Welcome to [C][B][SIZE=3]TenForums[/SIZE][/B][/C]. :thumbsup:
+You are [C][B][SIZE=3]VERY[/SIZE][/B][/C] welcome. :thumbsup:
+Excellent news, and you are [C][B][SIZE=3]VERY[/SIZE][/B][/C] welcome. :thumbsup:
+If you are happy with the solution, please mark this thread as [C][B][SIZE=3]Solved[/SIZE][/B][/C]. :thumbsup:
